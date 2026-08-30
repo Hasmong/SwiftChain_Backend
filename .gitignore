@@ -23,3 +23,10 @@ scripts/initialize/create-swift-smart-contract-issues.py
 #Context
 .contextSwiftFrontend
 .contextSwiftSmartContract
+
+# Stryker Mutation Testing
+.stryker-tmp
+reports/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
